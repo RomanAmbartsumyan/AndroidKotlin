@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="input_text">Введите текст</string>
+    <string name="button_send">Передать сообщение</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="send_Email">Отправить Email</string>
+    <string name="type_phone">Введите телефон</string>
+    <string name="call">Позвонить</string>
+</resources>
