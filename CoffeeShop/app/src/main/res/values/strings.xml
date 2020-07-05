@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="enter">Вход</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="welcome_user">Привет, клиент!</string>
+    <string name="coffee">Кофе</string>
+    <string name="tea">Чай</string>
+    <string name="what_your_wish">Что желаете?</string>
+    <string name="lemon">Лимон</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="what_put_in_your_drink">Что добавить в Ваш чай?</string>
+    <string name="choose_drink">Выберите вид напитка</string>
+    <string name="order">Оформить заказ</string>
+
+    <string-array name="options_of_coffee">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </string-array>
+
+    <string-array name="options_of_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+    </string-array>
+</resources>
